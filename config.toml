@@ -1,0 +1,27 @@
+baseURL = "http://owaislone.org/"
+languageCode = "en-us"
+title = "Owais Lone"
+theme = "minos"
+enableEmoji = true
+paginate = 50
+
+[params]
+    AuthorName = "Owais Lone"
+    GitHubUser = "owais"
+
+# [menu]
+
+#  [[menu.main]]
+#    identifier = "projects"
+#    name = "projects"
+#    pre = "<i class='fa fa-heart'></i>"
+#    url = "/about/"
+#    weight = -110
+
+#  [[menu.main]]
+#    identifier = "about"
+#    name = "about"
+#    pre = "<i class='fa fa-heart'></i>"
+#    url = "/about/"
+#    weight = -110
+
