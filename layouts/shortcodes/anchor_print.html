@@ -1,0 +1,4 @@
+<a href="{{ .Get "href" }}" {{if not (.Get "internal")}}target="_blank"{{ end }}>
+    {{ if (.Get "value") }}{{ .Get "value"}}{{ else }}{{ .Get "href" }}{{ end }}
+</a>
+[<a href="{{ .Get "href" }}" {{if not (.Get "internal")}}target="_blank"{{ end }}>{{ .Get "href" }}</a>]
