@@ -17,7 +17,7 @@ If you don't already know <a href="http://webpack.github.io/docs/what-is-webpack
 
 ## Objectives and reasoning
 
-We'll be setting up webpack and keeping it decoupled from django's staticfiles system. Read <a href="http://owaislone.org/blog/modern-frontends-with-django/" target="_blank">my earlier post</a> explaining why we'll be handling things this way and not integrating with staticfiles. We'll be using <a href="https://github.com/owais/webpack-bundle-tracker" target="_blank">webpack-bundle-tracker</a> to extract information from webpack and <a href="https://github.com/owais/django-webpack-loader/">django-webpack-loader</a> to use the extracted information for django integration.
+We'll be setting up webpack and keeping it decoupled from django's staticfiles system. Read <a href="http://owais.lone.pw/blog/modern-frontends-with-django/" target="_blank">my earlier post</a> explaining why we'll be handling things this way and not integrating with staticfiles. We'll be using <a href="https://github.com/owais/webpack-bundle-tracker" target="_blank">webpack-bundle-tracker</a> to extract information from webpack and <a href="https://github.com/owais/django-webpack-loader/">django-webpack-loader</a> to use the extracted information for django integration.
 
 ## Setting up webpack
 We'll use <a href="http://npmjs.com/">npm</a> to manage our frontend dependencies instead of managing them manually in one of the static files directories. You can also use <a href="http://bower.io/">bower</a> in addition to npm.

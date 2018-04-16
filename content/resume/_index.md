@@ -113,7 +113,7 @@ Django webpack loader helps integrate Javascript build systems with Django and i
 
 <hr/>
 
-* {{<anchor_print href="http://owaislone.org" value="Blog">}}
+* {{<anchor_print href="http://owais.lone.pw" value="Blog">}}
 * {{<anchor_print href="http://github.com/owais" value="Github">}}
 * {{<anchor_print href="http://launchpad.net/~loneowais" value="Launchpad">}}
 * {{<anchor_print href="http://linkedin.com/in/owaislone" value="LinkedIn">}}

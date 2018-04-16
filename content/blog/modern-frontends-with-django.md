@@ -41,7 +41,7 @@ For simpler cases, we don't even need to integrate. We can use things like gulp 
 I suggest we use bridges, not wrappers. Instead of writing wrappers around something like webpack and spawning webpack processes form within django, we should run webpack independently and pipe the output to django. If we can come up with a standard for this, we would only have to write a single bridge application for django. Then instead of writing django apps that wrap the javascript tools, we write plugins for the tools that emit useful data to be consumed by django or any other framework.
 
 ## webpack-bundle-tracker + django-webpack-loader
-<a href="https://github.com/owais/django-webpack-loader/" target="_blank">django-webpack-loader</a> and <a href="https://github.com/owais/webpack-bundle-tracker" target="_blank">webpack-bundle-tracker</a> implement a system like this. webpack-bundle-tracker plugin emits necessary information about webpack's compilation process and results so django-webpack-loader can consume it. django-webpack-loader does not care how you use webpack. You could control it from gulp, use the dev server, use the --watch mode or manually run it after every change. Head over to <a href="https://github.com/owais/django-webpack-loader/">https://github.com/owais/django-webpack-loader/</a> to see how it all works or read <a href="http://owaislone.org/blog/webpack-plus-reactjs-and-django/" target="_blank">this guide</a> for setting it all up with optional live reload for react components.
+<a href="https://github.com/owais/django-webpack-loader/" target="_blank">django-webpack-loader</a> and <a href="https://github.com/owais/webpack-bundle-tracker" target="_blank">webpack-bundle-tracker</a> implement a system like this. webpack-bundle-tracker plugin emits necessary information about webpack's compilation process and results so django-webpack-loader can consume it. django-webpack-loader does not care how you use webpack. You could control it from gulp, use the dev server, use the --watch mode or manually run it after every change. Head over to <a href="https://github.com/owais/django-webpack-loader/">https://github.com/owais/django-webpack-loader/</a> to see how it all works or read <a href="http://owais.lone.pw/blog/webpack-plus-reactjs-and-django/" target="_blank">this guide</a> for setting it all up with optional live reload for react components.
 
 
 ### What this solves
@@ -60,4 +60,4 @@ I suggest we use bridges, not wrappers. Instead of writing wrappers around somet
 
 ## Related articles
 
-* <a href="http://owaislone.org/blog/webpack-plus-reactjs-and-django/" target="_blank">Using Webpack transparently with Django and + reloading React components as a bonus</a> 
+* <a href="http://owais.lone.pw/blog/webpack-plus-reactjs-and-django/" target="_blank">Using Webpack transparently with Django and + reloading React components as a bonus</a> 
