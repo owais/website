@@ -9,19 +9,9 @@ paginate = 50
     AuthorName = "Owais Lone"
     GitHubUser = "owais"
 
-# [menu]
-
-#  [[menu.main]]
-#    identifier = "projects"
-#    name = "projects"
-#    pre = "<i class='fa fa-heart'></i>"
-#    url = "/about/"
-#    weight = -110
-
-#  [[menu.main]]
-#    identifier = "about"
-#    name = "about"
-#    pre = "<i class='fa fa-heart'></i>"
-#    url = "/about/"
-#    weight = -110
-
+[menu]
+    [[menu.main]]
+        identifier = "rss"
+        name = "RSS"
+        url = "/blog/index.xml"
+        weight = -110
