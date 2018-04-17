@@ -4,7 +4,7 @@ type: "raw"
 ---
 # Owais Lone
 
-I've been working in the tech industry professionally for almost ten years and have worn multiple hats while doing so. I've helped co-found startups, served as a CTO, brought together and grown awesome engineering teams, architected advanced software systems to solve complex problems, programmed solutions end to end (fullstack) and contributed (and maintained) to a number open-source software projects. I like designing and building advanced (but not complex) systems to solve hard problems, and building/growing great engineering teams.
+I've been working in the tech industry professionally for almost ten years and have worn multiple hats while doing so. I've helped co-found startups, served as a CTO, brought together and grown awesome engineering teams, architected advanced software systems to solve complex problems, programmed solutions end to end (full-stack) and contributed (and maintained) to a number open-source software projects. I like designing and building advanced (but not complex) systems to solve hard problems, and building/growing great engineering teams.
 
 ### Contact
 
