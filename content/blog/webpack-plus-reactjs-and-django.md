@@ -1,8 +1,12 @@
 +++
 title = "Using Webpack transparently with Django + hot reloading React components as a bonus"
 date = "2015-05-23T00:31:14+08:00"
-tags = ["Reactjs", " Django", " Webpack"]
-description = ""
+keywords = ["blog"]
+tags = ["React", "Django", "Webpack"]
+description = "Learn how to use Django transparently with webpack. Keep your frontend build pipeline de-coupled from your Django project to get the best of both worlds."
+readingtime = 10
+ogtype = "article"
+ogsection = "Web Development"
 +++
 
 

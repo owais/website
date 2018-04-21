@@ -6,7 +6,7 @@ enableEmoji = true
 paginate = 50
 
 [params]
-    AuthorName = "Owais Lone"
+    Author = "Owais Lone"
     GitHubUser = "owais"
 
 [menu]

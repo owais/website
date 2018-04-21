@@ -1,8 +1,10 @@
 +++
 title = "Let's modernize the way we handle frontend code with Django"
 date = "2015-05-22T02:03:50+08:00"
-tags = ["django", " webpack", " reactjs"]
-description = ""
+tags = ["Django", "Webpack", "React"]
+description = "What we should do to make Django play well with the fast moving Javascript ecosystem"
+ogtype = "article"
+ogsection = "Web Development"
 +++
 
 ## The problem
