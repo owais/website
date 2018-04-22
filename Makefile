@@ -7,7 +7,7 @@ run:
 	@hugo server -D
 
 build:
-	@hugo
+	@hugo --gc
 
 publish: build
 	make -C public publish
