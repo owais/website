@@ -1,6 +1,7 @@
 ---
 title: "Resume"
-type: "raw"
+type: "simple"
+excludeIndex: true
 ---
 # Owais Lone
 

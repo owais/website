@@ -1,4 +1,4 @@
-baseURL = "http://owais.lone.pw/"
+baseURL = "https://owais.lone.pw/"
 languageCode = "en-us"
 title = "Owais Lone"
 theme = "minos"
