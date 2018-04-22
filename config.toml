@@ -8,6 +8,7 @@ paginate = 50
 [params]
     Author = "Owais Lone"
     GitHubUser = "owais"
+    TwitterUser = "owaislone"
 
 [menu]
     [[menu.main]]
