@@ -5,7 +5,7 @@ excludeIndex: true
 ---
 # Owais Lone
 
-I've been working in the tech industry professionally for almost ten years and have worn multiple hats while doing so. I've helped co-found startups, served as a CTO, brought together and grown awesome engineering teams, architected advanced software systems to solve complex problems, programmed solutions end to end (full-stack) and contributed (and maintained) to a number open-source software projects. I like designing and building advanced (but not complex) systems to solve hard problems, and building/growing great engineering teams.
+I've been working in the tech industry professionally for almost ten years and have worn multiple hats while doing so. I've helped co-found startups, served as a CTO, brought together and grown awesome engineering teams, architected advanced software systems to solve complex problems, programmed solutions end to end (full-stack) and contributed (and maintained) to a number open-source software projects. I like designing and building advanced systems to solve hard problems, and building/growing great engineering teams.
 
 ### Contact
 
@@ -104,7 +104,9 @@ Apart from that, I've authored the following open source applications:
 * Remember the rhythm       &nbsp;&nbsp;&nbsp;[{{<anchor href="https://github.com/owais/remember-the-rhythm">}}]
 
 
-Django webpack loader helps integrate Javascript build systems with Django and is one of most most if the the most popular Django libraries out there. Fogger was built in just a week and won silver in the very first Ubuntu App Showdown contest.
+Django webpack loader helps integrate Javascript build systems with Django and is one of most most if the the most popular Django libraries out there.
+
+Fogger was built in just a week and **won silver in the very first Ubuntu App Showdown contest**.
 
 {{<anchor href="https://www.omgubuntu.co.uk/2012/07/fogger-can-turn-facebook-into-an-integrated-desktop-app-on-ubuntu">}}
 
