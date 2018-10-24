@@ -11,7 +11,7 @@ I've been working in the tech industry professionally for almost ten years and h
 
 <hr/>
 
-* Email: hello@lone.pw
+* Email: owais@lone.pw
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;loneowais@gmail.com
 
 * Keybase:  keybase.io/owais
