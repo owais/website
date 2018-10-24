@@ -11,7 +11,7 @@ I've been working in the tech industry professionally for almost ten years and h
 
 <hr/>
 
-* Email: hello@owaislone.org  
+* Email: hello@lone.pw
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;loneowais@gmail.com
 
 * Keybase:  keybase.io/owais
@@ -25,12 +25,18 @@ I've been working in the tech industry professionally for almost ten years and h
 
 <hr/>
 
+* ### Senior Software Engineer at Omnition
+
+    **July 2018 - Present** | {{<anchor href="https://omnition.io">}}
+
+<br/>
+
 * ### Staff Engineer at ezhome
 
-    **July 2015 - Present** | {{<anchor href="https://www.ezhome.com">}}
+    **July 2015 - May 2018** | {{<anchor href="https://www.ezhome.com">}}
 
 
-    Currently leading engineering at ezhome. In charge of the architecture of entire software systems and cloud infrastructure.
+    Lead engineering at ezhome. In charge of the architecture of entire software systems and cloud infrastructure.
 
 <br/>
 
@@ -62,8 +68,15 @@ I've been working in the tech industry professionally for almost ten years and h
 
 <br/>
 
-* ### Python engineer at Kolahoi Technologies 
+* ### Senior Software engineer at Kolahoi Technologies 
     **October 2010 - July 2011** | {{<anchor href="http://kolahoi.com">}}</a>
+
+    Worked as a Python/Django developer at Kolahoi Technologies.
+
+<br/>
+
+* ### Software Engineer at iKraftSoft Ltd
+    **October 2008 - September 2010** | {{<anchor href="http://ikraftsoft.com">}}</a>
 
     Worked as a Python/Django developer at iKraft Software.
 
@@ -109,6 +122,16 @@ Django webpack loader helps integrate Javascript build systems with Django and i
 Fogger was built in just a week and **won silver in the very first Ubuntu App Showdown contest**.
 
 {{<anchor href="https://www.omgubuntu.co.uk/2012/07/fogger-can-turn-facebook-into-an-integrated-desktop-app-on-ubuntu">}}
+
+
+<br/>
+<br/>
+## Other
+
+<hr/>
+
+As a boy scout, I was awarded the Rajya Puraskar (Governor's award) in 2004. Rajya Puraskar is the 2nd highest award a boy scout can receive in India.
+
 
 <br/>
 <br/>
