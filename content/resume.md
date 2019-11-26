@@ -5,7 +5,7 @@ excludeIndex: true
 ---
 # Owais Lone
 
-I've been working in the tech industry professionally for almost ten years and have worn multiple hats while doing so. I've helped co-found startups, served as a CTO, brought together and grown awesome engineering teams, architected advanced software systems to solve complex problems, programmed solutions end to end (full-stack) and contributed (and maintained) to a number open-source software projects. I like designing and building advanced systems to solve hard problems, and building/growing great engineering teams.
+I've been working in the tech industry professionally for almost ten years and have worn multiple hats while doing so. I've helped co-found startups, served as a CTO, assembled and lead some great engineering teams, participated in and maintained a number of open-source projects among other things.
 
 ### Contact
 
@@ -25,26 +25,44 @@ I've been working in the tech industry professionally for almost ten years and h
 
 <hr/>
 
+* ### Senior Software Engineer at Splunk 
+
+    **September 2019 - Present** | {{<anchor href="https://splunk.com">}}
+
+<br/>
+
 * ### Senior Software Engineer at Omnition
 
-    **July 2018 - Present** | {{<anchor href="https://omnition.io">}}
+    **July 2018 - September 2019** | {{<anchor href="https://omnition.io">}}
+
+    Acquired by Splunk in September 2019
+
 
 <br/>
 
-* ### Staff Engineer at ezhome
+* ### Staff Engineer at Ezhome (now Ergeon)
 
-    **July 2015 - May 2018** | {{<anchor href="https://www.ezhome.com">}}
+    **July 2016 - May 2018** | {{<anchor href="https://www.ergeon.com">}}
 
 
-    Lead engineering at ezhome. In charge of the architecture of entire software systems and cloud infrastructure.
+    Lead multiple engineering teams at ezhome. In charge of the architecture of software systems and cloud infrastructure.
 
 <br/>
 
-* ### CTO and co-founder at Vetted
+* ### Senior Software Engineer at Ezhome (now Ergeon)
 
-    **November 2012 - July 2015**  | {{<anchor href="https://www.thevetted.com">}}
+    **July 2015 - May 2016** | {{<anchor href="https://www.ergeon.com">}}
 
-    Lead engineering at Vetted from 2012 to 2015. Formed a great engineering team and helped shape the culture at Vetted. Designed a multi-teneant SaaS system uses by a number fortune 500 companies.
+
+    Full-stack engineer and team lead at ezhome. Lead the platform and internal applications teams.
+
+<br/>
+
+* ### CTO and co-founder at Vetted (now Certa)
+
+    **November 2012 - July 2015**  | {{<anchor href="https://www.getcerta.com">}} | {{<anchor href="https://www.thevetted.com">}} 
+
+    Lead engineering at Vetted from 2012 to 2015. Formed a great engineering team and helped shape the culture at Vetted. Designed a multi-tenant SaaS system uses by a number fortune 500 companies.
 
 
 <br/>
