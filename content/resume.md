@@ -86,7 +86,7 @@ I've been working in the tech industry professionally for almost ten years and h
 
 <br/>
 
-* ### Senior Software engineer at Kolahoi Technologies 
+* ### Senior Software engineer at Kolahoi Technologies (an iKraftSoft company) 
     **October 2010 - July 2011** | {{<anchor href="http://kolahoi.com">}}</a>
 
     Worked as a Python/Django developer at Kolahoi Technologies.
@@ -122,9 +122,7 @@ Python, Django, Go, Javascript/Typescript, Node, React(native), Flutter/Dart, Re
 
 <hr/>
 
-I'm an active member of the Ubuntu and Django open source communities. I've contributed to different parts of Ubuntu mostly quickly and python-distutils-extra.
-
-Apart from that, I've authored the following open source applications:
+I'm an active member of the OpenTelemetry, OpenCensus, Ubuntu and Django open source communities. Apart from that, I've authored the following open source applications:
 
 
 * Django Webpack Loader     &nbsp;[{{< anchor href="http://github.com/owais/django-webpack-loader">}}]
