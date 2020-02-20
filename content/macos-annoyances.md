@@ -2,6 +2,7 @@
 title: "macOS annoyances"
 type: "living"
 lastMod: "2012-04-17T05:30:00+08:00"
+excludeIndex: true
 ---
 
 ## External displays
