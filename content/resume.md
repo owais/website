@@ -5,14 +5,14 @@ excludeIndex: true
 ---
 # Owais Lone
 
-I've been working in the tech industry professionally for almost ten years and have worn multiple hats while doing so. I've helped co-found startups, served as a CTO, assembled and lead some great engineering teams, participated in and maintained a number of open-source projects among other things.
+I've been working in the tech industry professionally for more than ten years and have worn multiple hats while doing so. I've helped co-found startups, served as a CTO at one, assembled and lead some great engineering teams, worked big corps and participated in and maintained a number of open-source projects including OpenCensus and OpenTelemetry among other things.
 
 ### Contact
 
 <hr/>
 
 * Email: owais@lone.pw
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;loneowais@gmail.com
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; loneowais@gmail.com
 
 * Keybase:  keybase.io/owais
 
@@ -25,9 +25,13 @@ I've been working in the tech industry professionally for almost ten years and h
 
 <hr/>
 
+* ### Principal Software Engineer at Splunk 
+
+    **April 2022 - Present** | {{<anchor href="https://splunk.com">}}
+
 * ### Senior Software Engineer at Splunk 
 
-    **September 2019 - Present** | {{<anchor href="https://splunk.com">}}
+    **September 2019 - April 2022** | {{<anchor href="https://splunk.com">}}
 
 <br/>
 
