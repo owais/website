@@ -4,7 +4,7 @@
 all: run
 
 install:
-	@go install github.com/gohugoio/hugo@v0.89.0
+	@go install github.com/gohugoio/hugo@v0.97.3
 
 run:
 	@hugo server -D
