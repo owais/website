@@ -16,3 +16,8 @@ paginate = 50
         name = "RSS"
         url = "/blog/index.xml"
         weight = -110
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

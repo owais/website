@@ -3,115 +3,129 @@ title: "Resume"
 type: "simple"
 excludeIndex: true
 ---
+
 # Owais Lone
+Vancouver, Canada
 
-I've been working in the tech industry professionally for more than ten years and have worn multiple hats while doing so. I've helped co-found startups, served as a CTO at one, assembled and lead some great engineering teams, worked big corps and participated in and maintained a number of open-source projects including OpenCensus and OpenTelemetry among other things.
+I've been working in the tech industry professionally for more than  a decade and have worn multiple hats while doing so. I've helped co-found startups, served as a CTO at one, assembled and lead some great engineering teams, worked big corps and participated in and maintained a number of open-source projects including OpenCensus and OpenTelemetry among other things.
 
-### Contact
+## Contact
 
 <hr/>
 
-* Email: owais@lone.pw
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; loneowais@gmail.com
-
-* Keybase:  keybase.io/owais
-
-* IRC (Freenode, OFTC): OwaisL
-
+* owais@lone.pw
+* loneowais@gmail.com
 
 <br/>
-<br/>
+
 ## Work History
 
 <hr/>
 
-* ### Principal Software Engineer at Splunk 
+### Principal Software Engineer at Splunk 
 
-    **April 2022 - Present** | {{<anchor href="https://splunk.com">}}
+Vancouver, Canada
 
-* ### Senior Software Engineer at Splunk 
+**2022-05 - Present** | {{<anchor href="https://splunk.com">}}
 
-    **September 2019 - April 2022** | {{<anchor href="https://splunk.com">}}
-
-<br/>
-
-* ### Senior Software Engineer at Omnition
-
-    **July 2018 - September 2019** | {{<anchor href="https://omnition.io">}}
-
-    Acquired by Splunk in September 2019
-
+I joined the infrastructure team to build an internal cloud platform for Splunk's Observability Cloud products. My current goals include automating tasks related to the infrastructure/platform, guide/mentor junior and new engineers on the team and build self-service internal cloud platform for the rest of the company to use. 
 
 <br/>
 
-* ### Staff Engineer at Ezhome (now Ergeon)
+### Senior Software Engineer at Splunk 
 
-    **July 2016 - May 2018** | {{<anchor href="https://www.ergeon.com">}}
+Vancouver, Canada
 
-
-    Lead multiple engineering teams at ezhome. In charge of the architecture of software systems and cloud infrastructure.
-
-<br/>
-
-* ### Senior Software Engineer at Ezhome (now Ergeon)
-
-    **July 2015 - May 2016** | {{<anchor href="https://www.ergeon.com">}}
-
-
-    Full-stack engineer and team lead at ezhome. Lead the platform and internal applications teams.
+**2022-04 - 2022-04** | {{<anchor href="https://splunk.com">}}
 
 <br/>
 
-* ### CTO and co-founder at Vetted (now Certa)
+### Senior Software Engineer at Splunk 
 
-    **November 2012 - July 2015**  | {{<anchor href="https://www.getcerta.com">}} | {{<anchor href="https://www.thevetted.com">}} 
+**2019-09 - 2022-03** | {{<anchor href="https://splunk.com">}}
 
-    Lead engineering at Vetted from 2012 to 2015. Formed a great engineering team and helped shape the culture at Vetted. Designed a multi-tenant SaaS system uses by a number fortune 500 companies.
+I worked on the OpenTelemetry project to help companies collect and forward their telemetry data to a vendor of their choice. I inherited close to a dozen open-source projects owned by SignalFx and maintained them for almost a year significantly improving the quality and available features in the process. I became a maintainer for the OpenTelemetry Python project and helped lead the project to it's first stable release. I also helped Splunk build and release open-source observability SDKs built on top of OpenTelemetry. I was also responsible for drafting our security policy for open-source projects written and maintained at Splunk.
+
+<br/>
+
+### Senior Software Engineer at Omnition
+
+**2018-07 - 2019-08** | {{<anchor href="https://omnition.io">}}
+
+I was responsible for building and operating Omnition's data ingress services which ingested multi-million data points per second from our customers. I also built the authentication system which was used by both Omnition's APIs and customers. In addition to this, I also contributed to the OpenCensus and other related projects that made helped Omnition customer gather observability data from their environments. 
 
 
 <br/>
 
+### Staff Engineer at Ezhome (now Ergeon)
 
-* ### CTO and co-founder at Seesr
+**2016-07 - 2018-05** | {{<anchor href="https://www.ergeon.com">}}
 
-    **Febuary 2012 - July 2012** 
 
-    Worked on a product that helped identify and tag objects in videos targetting e-commerce and marketting space.
-
-<br/>
-
-* ### Fullstack engineer at Upwork Inc 
-
-    **July 2011 - July 2012** | {{<anchor href="https://www.upwork.com/enterprise">}}
-
-    Worker at Upwork (then oDesk) on enterprise services team.
-
-    Worked on an enterprise application for Krome Photos ({{<anchor href="http://kromephotos.com">}}), and tools for companies like Ebay and Google.
+Lead multiple engineering teams at ezhome. In charge of the architecture of software systems and cloud infrastructure. The teams build and managed all cloud infrastructure and platform the rest of the company built on top of and all internal apps used by ezhome backoffice and ground staff. We also built sophisticated scheduling systems used to automatically plan and optimize work schedule for our ground staff.
 
 <br/>
 
-* ### Senior Software engineer at Kolahoi Technologies (an iKraftSoft company) 
-    **October 2010 - July 2011** | {{<anchor href="http://kolahoi.com">}}</a>
+### Senior Software Engineer at Ezhome (now Ergeon)
 
-    Worked as a Python/Django developer at Kolahoi Technologies.
+**2015-07 - 2016-05** | {{<anchor href="https://www.ergeon.com">}}
 
-<br/>
-
-* ### Software Engineer at iKraftSoft Ltd
-    **October 2008 - September 2010** | {{<anchor href="http://ikraftsoft.com">}}</a>
-
-    Worked as a Python/Django developer at iKraft Software.
+Full-stack engineer and team lead at ezhome. Lead the platform and internal applications teams. 
 
 <br/>
 
-* ### Freelance Contracts 
+### CTO and co-founder at Vetted (now Certa)
+
+**2012-11 - 2015-07**  | {{<anchor href="https://www.getcerta.com">}} | {{<anchor href="https://www.thevetted.com">}} 
+
+Lead engineering at Vetted from 2012 to 2015. Formed a great engineering team and helped shape the culture at Vetted. Designed a multi-tenant SaaS system uses by a number fortune 500 companies.
+
+
+<br/>
+
+
+### CTO and co-founder at Seesr
+
+**2012-03 - 2012-07** 
+
+Worked on a product that helped identify and tag objects in videos targetting e-commerce and marketting space.
+
+<br/>
+
+### Fullstack engineer at Upwork Inc 
+
+**2011-08 - 2012-07** | {{<anchor href="https://www.upwork.com/enterprise">}}
+
+Worker at Upwork (then oDesk) on enterprise services team.
+
+Worked on an enterprise application for Krome Photos ({{<anchor href="http://kromephotos.com">}}), and tools for companies like Ebay and Google.
+
+<br/>
+
+### Senior Software engineer at Kolahoi Technologies (an iKraftSoft company) 
+
+**2010-10 - 2011-07** | {{<anchor href="http://kolahoi.com">}}</a>
+
+Worked as a Python/Django developer at Kolahoi Technologies.
+
+<br/>
+
+### Software Engineer at iKraftSoft Ltd
+
+**2008-10 - 2010-09** | {{<anchor href="http://ikraftsoft.com">}}</a>
+
+Worked as a Python/Django developer at iKraft Software.
+
+<br/>
+
+### Freelance Contracts 
     
-    {{<anchor href="https://www.odesk.com/users/Owais-Lone_~~53d95861c62c6828">}}
+{{<anchor href="https://www.upwork.com/freelancers/~01b12047a1b46642c1">}}
 
-    I've also done some freelance contracts on oDesk itself before they hired me to work on their enterprise applications.
+I've also done some freelance contracts on oDesk itself before they hired me to work on their enterprise applications.
 
 <br/>
-<br/>
+
 ## Technical Experience
 
 <hr/>
@@ -122,6 +136,7 @@ Python, Django, Go, Javascript/Typescript, Node, React(native), Flutter/Dart, Re
 
 <br/>
 <br/>
+
 ## Open Source
 
 <hr/>
@@ -129,6 +144,8 @@ Python, Django, Go, Javascript/Typescript, Node, React(native), Flutter/Dart, Re
 I'm an active member of the OpenTelemetry, OpenCensus, Ubuntu and Django open source communities. Apart from that, I've authored the following open source applications:
 
 
+* OpenTelemetry Collector &nbsp;[{{< anchor href="github.com/open-telemetry/opentelemetry-collector-contrib">}}]
+* OpenTelemetry Python &nbsp;[{{< anchor href="github.com/open-telemetry/opentelemetry-python-contrib">}}]
 * Django Webpack Loader     &nbsp;[{{< anchor href="http://github.com/owais/django-webpack-loader">}}]
 * Webpack Bundle Tracker    [{{<anchor href="http://github.com/owais/webpack-bundle-tracker">}}]
 * Fogger                     &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[{{<anchor href="http://launchpad.net/fogger">}}]
@@ -146,6 +163,7 @@ Fogger was built in just a week and **won silver in the very first Ubuntu App Sh
 
 <br/>
 <br/>
+
 ## Other
 
 <hr/>
@@ -155,6 +173,7 @@ As a boy scout, I was awarded the Rajya Puraskar (Governor's award) in 2004. Raj
 
 <br/>
 <br/>
+
 ## Links
 
 <hr/>
@@ -163,6 +182,6 @@ As a boy scout, I was awarded the Rajya Puraskar (Governor's award) in 2004. Raj
 * {{<anchor_print href="http://github.com/owais" value="Github">}}
 * {{<anchor_print href="http://launchpad.net/~loneowais" value="Launchpad">}}
 * {{<anchor_print href="http://linkedin.com/in/owaislone" value="LinkedIn">}}
-* {{<anchor_print href="https://www.upwork.com/o/profiles/users/_~~53d95861c62c6828/" value="Upwork">}}
+* {{<anchor_print href="https://www.upwork.com/freelancers/~01b12047a1b46642c1" value="Upwork">}}
 
 <br/>
