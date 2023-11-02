@@ -4,6 +4,3 @@
 [submodule "themes/minos"]
 	path = themes/minos
 	url = git@github.com:owais/hugo-theme-minos.git
-[submodule "public"]
-	path = public
-	url = git@github.com:owais/owais.github.com.git
