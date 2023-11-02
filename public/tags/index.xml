@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Owais Lone</title>
+    <link>https://owais.lone.pw/tags/</link>
+    <description>Recent content in Tags on Owais Lone</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 May 2015 00:31:14 +0800</lastBuildDate>
+    <atom:link href="https://owais.lone.pw/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Django</title>
+      <link>https://owais.lone.pw/tags/django/</link>
+      <pubDate>Sat, 23 May 2015 00:31:14 +0800</pubDate>
+      <guid>https://owais.lone.pw/tags/django/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>React</title>
+      <link>https://owais.lone.pw/tags/react/</link>
+      <pubDate>Sat, 23 May 2015 00:31:14 +0800</pubDate>
+      <guid>https://owais.lone.pw/tags/react/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Webpack</title>
+      <link>https://owais.lone.pw/tags/webpack/</link>
+      <pubDate>Sat, 23 May 2015 00:31:14 +0800</pubDate>
+      <guid>https://owais.lone.pw/tags/webpack/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>https://owais.lone.pw/tags/projects/</link>
+      <pubDate>Sun, 13 Nov 2011 05:30:00 +0800</pubDate>
+      <guid>https://owais.lone.pw/tags/projects/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gmailwatcher</title>
+      <link>https://owais.lone.pw/tags/gmailwatcher/</link>
+      <pubDate>Wed, 15 Sep 2010 05:30:00 +0800</pubDate>
+      <guid>https://owais.lone.pw/tags/gmailwatcher/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ubuntu</title>
+      <link>https://owais.lone.pw/tags/ubuntu/</link>
+      <pubDate>Wed, 15 Sep 2010 05:30:00 +0800</pubDate>
+      <guid>https://owais.lone.pw/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Community</title>
+      <link>https://owais.lone.pw/tags/community/</link>
+      <pubDate>Wed, 04 Aug 2010 05:30:00 +0800</pubDate>
+      <guid>https://owais.lone.pw/tags/community/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Talks</title>
+      <link>https://owais.lone.pw/tags/talks/</link>
+      <pubDate>Wed, 04 Aug 2010 05:30:00 +0800</pubDate>
+      <guid>https://owais.lone.pw/tags/talks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kashmir</title>
+      <link>https://owais.lone.pw/tags/kashmir/</link>
+      <pubDate>Sun, 13 Jun 2010 05:30:00 +0800</pubDate>
+      <guid>https://owais.lone.pw/tags/kashmir/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Photos</title>
+      <link>https://owais.lone.pw/tags/photos/</link>
+      <pubDate>Sun, 13 Jun 2010 05:30:00 +0800</pubDate>
+      <guid>https://owais.lone.pw/tags/photos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FOSS</title>
+      <link>https://owais.lone.pw/tags/foss/</link>
+      <pubDate>Sun, 23 May 2010 05:30:00 +0800</pubDate>
+      <guid>https://owais.lone.pw/tags/foss/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
