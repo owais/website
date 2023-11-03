@@ -1,3 +1,6 @@
 [submodule "themes/hemingway2"]
 	path = themes/hemingway2
 	url = git@gitlab.com:beli3ver/hemingway2.git
+[submodule "themes/minos"]
+	path = themes/minos
+	url = git@github.com:owais/hugo-theme-minos.git
