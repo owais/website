@@ -12,10 +12,15 @@ paginate = 50
 
 [menu]
     [[menu.main]]
+        identifier = "Resume"
+        name = "Resume"
+        url = "/resume"
+        weight = -110
+    [[menu.main]]
         identifier = "rss"
         name = "RSS"
         url = "/blog/index.xml"
-        weight = -110
+        weight = -100
 
 [markup]
   [markup.goldmark]
