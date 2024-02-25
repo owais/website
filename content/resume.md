@@ -154,7 +154,7 @@ I'm an active member of the OpenTelemetry, OpenCensus, Ubuntu and Django open so
 * Remember the rhythm       &nbsp;&nbsp;&nbsp;[{{<anchor href="https://github.com/owais/remember-the-rhythm">}}]
 
 
-Django webpack loader helps integrate Javascript build systems with Django and is one of most most if the the most popular Django libraries out there.
+Django webpack loader helps integrate Javascript build systems with Django and is one of the most popular Django libraries out there.
 
 Fogger was built in just a week and **won silver in the very first Ubuntu App Showdown contest**.
 
