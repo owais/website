@@ -3,7 +3,10 @@ languageCode = "en-us"
 title = "Owais Lone"
 theme = "minos"
 enableEmoji = true
-paginate = 50
+#paginate = 50
+ 
+
+pagination.pagerSize = 10 
 
 [params]
     Author = "Owais Lone"

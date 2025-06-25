@@ -26,17 +26,11 @@ I've been working in the tech industry professionally for more than  a decade an
 
 Vancouver, Canada
 
-**2022-05 - Present** | {{<anchor href="https://splunk.com">}}
+**2022-05 - 2025-02** | {{<anchor href="https://splunk.com">}}
 
-I joined the infrastructure team to build an internal cloud platform for Splunk's Observability Cloud products. My current goals include automating tasks related to the infrastructure/platform, guide/mentor junior and new engineers on the team and build self-service internal cloud platform for the rest of the company to use. 
+I joined the infrastructure team in 2024 to build an internal cloud platform for Splunk's Observability Cloud products to self-service internal cloud platform and bring Software Engineering ethos to the infrastructure team. Also completed the biggest infrastructure project to enable end to end encryption and authentication across thousands of services with service mesh tech (istio). This project has a lot of challenges and was attempted twice in the last 3 years. It took me little over a year to complete and ship to production. This was a crucial project to unblock FedRAMP and other compliance issues. I also helped the team achieve a number of securirty and data compliance milestones.
 
-<br/>
-
-### Senior Software Engineer at Splunk 
-
-Vancouver, Canada
-
-**2022-04 - 2022-04** | {{<anchor href="https://splunk.com">}}
+In 2025, I moved back to a proper Software Engineer role working on agents such as the OpenTelemetry Collector, AppDynamics Agents, etc.
 
 <br/>
 
